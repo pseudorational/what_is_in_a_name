@@ -2,26 +2,7 @@
 title: "Gender Neutral Names"
 author: "Vishal Lala"
 date: "1/17/2022"
-output:
-  html_document: 
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    theme: cerulean
-    highlight: pygments
-    df_print: paged
-  prettydoc::html_pretty:
-    theme: cayman
-    toc: true
-    df_print: paged
-  tufte::tufte_handout: default
-  ioslides_presentation: default
-  pdf_document:
-    toc: true
-    toc_depth: 3
-    highlight: pygments
-  html_vignette: default
-  beamer_presentation: default
+output: github_document
 ---
 
 Over the last couple of decades, the line distinguishing gender roles has blurred. Increasingly, men are taking on tasks and jobs that were previously linked to women and a growing number of women are happy to let the husband manage the kids while she becomes the primary bread-getter for the family. Men are no longer shying from jobs in nursing and women are taking on manufacturing jobs. 
